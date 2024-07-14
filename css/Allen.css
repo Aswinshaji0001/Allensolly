@@ -893,3 +893,146 @@
     font-family: Arial, Helvetica, sans-serif;
     opacity: .5;
 }
+.container15{
+    margin-top: 30px;
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+
+}
+.bt2{
+    position: absolute;
+    left: 38%;
+    top: 20%;
+}
+.bt3{
+    padding: 20px 80px;
+    background-color: rgb(12, 12, 97);
+    color: rgb(196, 176, 176);
+    border-radius: 10px;
+}
+.logoss{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 10%;
+    justify-content: space-evenly;
+    border-bottom: 1px solid gray;
+}
+.ek{
+    padding-left: 200x;
+  
+}
+.do{
+    padding-left: 400px;
+    color: grey;
+}
+.theen{
+    padding-left: 450px;
+    color: grey;
+}
+.logoss img{
+    width: 50px;
+    height: 50px;
+}
+.textsss{
+    position: absolute;
+    top: 78%;
+    left: 6%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.testsss{
+    position: absolute;
+    top: 78%;
+    left: 42%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.dtest{
+    position: absolute;
+    top: 78%;
+    right: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.container16{
+    width: 100%;
+    height: 35vh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid grey;
+}
+.help{
+   width: 20%;
+   height: 100%;
+   background-color: rgb(255, 255, 255);
+}
+.me{
+    margin-top: 10px;
+}
+.me h5{
+    padding-top: 5px;
+}
+.helpi{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+ }
+ .helpi img{
+    width: 40px;
+    height: 40px;
+ }
+ .ikk{
+    position: absolute;
+    width: 40px;
+ }
+ .helpi h4{
+    margin-left: 50px;
+ }
+.errrr{
+    margin-top: 20px;
+      border-bottom: 1px solid black;
+}
+.errrr h4{
+    margin-right: 200px;
+}
+.social{
+    margin-top: 20px;
+    display: flex;
+}
+.sr{
+    margin-top: 40px;
+    margin-right: 25px;
+}
+.social ul{
+display: flex;
+align-items: center;
+list-style-type: none;
+}
+.social li{
+padding-left: 20px;
+margin-top: 35px;
+}
+.social img{
+    width: 30px;
+    height: 30px;
+}
+.container16 h5{
+    color: grey;
+}
+.container17{
+    width: 100%;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+}
+.mas h3{
+    margin-top: 10px;
+}
